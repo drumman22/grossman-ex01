@@ -3,6 +3,15 @@
  *  Copyright 2021 Jason Grossman
  */
 
+/*
+-- Pseudocode --
+create input scanner
+ask for name
+use scanner to get input
+print name
+ */
+
+
 import java.util.Scanner;
 
 public class Solution01 {
